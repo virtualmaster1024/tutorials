@@ -11,6 +11,16 @@
     "file": "vm-activation.md"
   },
   {
+    "id": "enable-developer-options",
+    "title": "How to Enable Developer Options & Debugging on Any Android Device",
+    "category": "getting-started",
+    "difficulty": "Beginner",
+    "readTime": "2 min read",
+    "summary": "Step-by-step instructions to unlock Android Developer Options and USB/Wireless Debugging on Samsung, Xiaomi, Pixel, and other devices.",
+    "tags": ["DeveloperOptions", "USBDebugging", "Quickstart", "Android"],
+    "file": "enable-developer-options.md"
+  },
+  {
     "id": "samsung-s24",
     "title": "Samsung Galaxy S24 / One UI 6 Background Keepalive Guide",
     "category": "device-optimization",
