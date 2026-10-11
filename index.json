@@ -1,0 +1,12 @@
+[
+  {
+    "id": "samsung-s24",
+    "title": "Samsung Galaxy S24 / One UI 6 Background Keepalive Guide",
+    "category": "device-optimization",
+    "difficulty": "Recommended",
+    "readTime": "3 min read",
+    "summary": "Configure Samsung One UI 6 battery optimization and prevent deep sleep during screen-off execution.",
+    "tags": ["Samsung", "OneUI", "GalaxyS24", "Keepalive"],
+    "file": "samsung-s24.md"
+  }
+]
