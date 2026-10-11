@@ -1,5 +1,16 @@
 [
   {
+    "id": "vm-activation",
+    "title": "On-Device Wireless Debugging Activation Guide (No PC Required)",
+    "category": "getting-started",
+    "difficulty": "Beginner",
+    "readTime": "3 min read",
+    "summary": "Activate Virtual Master hardware acceleration and persistent background scheduling directly on-device using Android Wireless Debugging.",
+    "tags": ["Activation", "WirelessADB", "NoPC", "Vulkan120Hz"],
+    "videoUrl": "https://www.youtube.com/watch?v=fyWWn6nl5AQ",
+    "file": "vm-activation.md"
+  },
+  {
     "id": "samsung-s24",
     "title": "Samsung Galaxy S24 / One UI 6 Background Keepalive Guide",
     "category": "device-optimization",
